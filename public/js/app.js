@@ -44434,7 +44434,7 @@ var render = function() {
   var _c = _vm._self._c || _h
   return _c("li", { staticClass: "nav-item d-md-down-none" }, [
     _c("a", { staticClass: "nav-link" }, [
-      _c("i", { staticClass: "icon-bell" }),
+      _c("i", { staticClass: "fa fa-bell" }),
       _c("span", { staticClass: "badge badge-pill badge-info" }, [
         _vm._v(_vm._s(_vm.unreadNotifications.length))
       ])
