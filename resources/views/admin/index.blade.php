@@ -31,13 +31,6 @@
 </div>
 @endforeach
 
-<div class="row">
-    <div class="col-md-4">
-        <h3>Online Users</h3>
-        <hr>
-        <h5 id="no-online-users">No Online Users</h5>
-        <online-users/>
-    </div>
-</div>
+
 
 @endsection
