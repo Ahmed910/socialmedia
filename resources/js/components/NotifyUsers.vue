@@ -1,6 +1,6 @@
 <template>
 <li class="nav-item d-md-down-none">
-<a class="nav-link"><i class="icon-bell"></i><span class="badge badge-pill badge-info">{{unreadNotifications.length}}</span></a>
+<a class="nav-link"><i class="fa fa-bell"></i><span class="badge badge-pill badge-info">{{unreadNotifications.length}}</span></a>
 </li>
 </template>
 <script>
